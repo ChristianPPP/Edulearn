@@ -212,6 +212,9 @@ section a {
     text-align: center;
     color: #000000;
 }
+.cursoG1 div a{
+    top: 10px;
+}
 .cursoG2 {
     position: absolute;
     width: 400px;
