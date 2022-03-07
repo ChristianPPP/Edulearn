@@ -181,6 +181,7 @@ section a {
 }
 section div a {
     text-decoration: none;
+    color: #000000;
 }
 .cursoG1 {
     position: absolute;
