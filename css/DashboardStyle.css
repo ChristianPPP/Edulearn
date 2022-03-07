@@ -179,6 +179,9 @@ nav {
 section a {
     text-decoration: none;
 }
+section div a {
+    text-decoration: none;
+}
 .cursoG1 {
     position: absolute;
     width: 400px;
