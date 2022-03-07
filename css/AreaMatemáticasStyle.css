@@ -488,7 +488,7 @@ section a {
     border: 1px solid #000000;
     box-sizing: border-box;
     border-radius: 15px 15px 0px 0px;
-    background: url("C:\\Users\\Christian Palacios\\Documents\\Diseño de interfaces\\Proyectos_2021B\\Proyecto_DInt_2021-B\\img\\CC1Font.jpeg");
+    background: url("/img/CC1Font.jpeg");
     background-size: cover;
 }
 .contenedorC1 div:nth-child(2) {
