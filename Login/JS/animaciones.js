@@ -12,7 +12,7 @@ btnCerrarpopup.addEventListener('click',function(){
     overlay.classList.remove('active');
     popup.classList.remove('active');
     setTimeout(function(){
-        location.href="login.html";
+        location.href="Login.html";
     },1000*1)
 });
 
