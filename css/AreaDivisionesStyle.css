@@ -488,7 +488,7 @@ section a {
     border: 1px solid #000000;
     box-sizing: border-box;
     border-radius: 15px 15px 0px 0px;
-    background: url("../img/SC1Font.jpeg");
+    background: url("/img/SC1Font.jpeg");
     background-size: cover;
 }
 .contenedorC1 div:nth-child(2) {
@@ -565,7 +565,7 @@ section a {
     border: 1px solid #000000;
     box-sizing: border-box;
     border-radius: 15px 15px 0px 0px;
-    background: url("../img/SC2Font.jpeg");
+    background: url("/img/SC2Font.jpeg");
     background-size: cover;
 }
 .contenedorC2 div:nth-child(2) {
@@ -642,7 +642,7 @@ section a {
     border: 1px solid #000000;
     box-sizing: border-box;
     border-radius: 15px 15px 0px 0px;
-    background: url("../img/SC3Font.jpeg");
+    background: url("/img/SC3Font.jpeg");
     background-size: cover;
 }
 .contenedorC3 div:nth-child(2) {
@@ -719,7 +719,7 @@ section a {
     border: 1px solid #000000;
     box-sizing: border-box;
     border-radius: 15px 15px 0px 0px;
-    background: url("../img/SC4Font.jpeg");
+    background: url("/img/SC4Font.jpeg");
     background-size: cover;
 }
 .contenedorC4 div:nth-child(2) {
@@ -796,7 +796,7 @@ section a {
     border: 1px solid #000000;
     box-sizing: border-box;
     border-radius: 15px 15px 0px 0px;
-    background: url("../img/SC5Font.jpeg");
+    background: url("/img/SC5Font.jpeg");
     background-size: cover;
 }
 .contenedorC5 div:nth-child(2) {
@@ -873,7 +873,7 @@ section a {
     border: 1px solid #000000;
     box-sizing: border-box;
     border-radius: 15px 15px 0px 0px;
-    background: url("../img/SC6Font.jpeg");
+    background: url("/img/SC6Font.jpeg");
     background-size: cover;
 }
 .contenedorC6 div:nth-child(2) {
