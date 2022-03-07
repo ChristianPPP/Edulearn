@@ -214,6 +214,7 @@ section a {
 }
 .cursoG1 div a{
     top: 200px;
+    left: 10px;
 }
 .cursoG2 {
     position: absolute;
