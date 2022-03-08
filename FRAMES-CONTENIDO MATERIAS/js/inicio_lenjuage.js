@@ -1,13 +1,3 @@
-{/* <button id="open" class= "ingresar">Ingresar</button>
-
-<div class="overlay" id="overlay">
-                <div class="popup" id="popup">
-                    <a href="#" id="cerrar-popup" class="cerrar-popup"><i class="fa-solid fa-circle-xmark"></i></a>
-                    <h3>REGISTRO EXITOSO!</h3>
-                    <img src="pictures/popup.png" width="500px" height="170">
-                    <h4>Gracias por formar parte de nuestro grupo de aprendizaje</h4>
-                </div>
-            </div> */}
 
             //para botones de ingresar 
 
