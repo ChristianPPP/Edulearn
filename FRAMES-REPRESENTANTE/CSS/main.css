@@ -1172,6 +1172,17 @@ font-size: 15px;
 line-height: 22px;
 color: #000000;
 }
+#nombre{
+    color:rgb(59, 59, 63);
+    position: relative;
+    top:-380px;
+    left:30px;
+    font-family:Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 18px; 
 
+}
 
 
